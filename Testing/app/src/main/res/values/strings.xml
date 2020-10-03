@@ -1,0 +1,227 @@
+<resources>
+
+    <string name="are_you_sure_you_want_to_proceed___string">Are you sure you want to proceed ?</string>
+    <string name="__yes_string"> Yes</string>
+    <string name="__no_string"> No</string>
+
+
+
+    <string name="expected_to_spread_string">expected to spread</string>
+    <string name="_1_1_km_away_string">1.1 km away</string>
+    <string name="recent_fire_string">Recent fire</string>
+
+
+    <string name="report_a_fire_string">Report a fire</string>
+
+
+
+    <string name="report_an_emergency_string">Report an emergency</string>
+
+
+
+
+
+
+
+
+
+    <string name="economical_analysis_string">Economical Analysis</string>
+
+
+
+    <string name="recent_fires_string">Recent Fires</string>
+
+
+
+
+
+    <string name="this_sign_indicates__string">This sign indicates</string>
+    <string name="__their_locations_will_be_indicated_on_the_map___string">Their locations will be indicated on the map. </string>
+    <string name="there_are_people_waiting_to_be_rescued__string">There are people waiting to be rescued!</string>
+
+
+    <string name="where_are_you____string">Where are you ?</string>
+    <string name="by_completing_this_action_you_will_be_directed_outside_of_the_danger_zone__through_the_shortest_and_safest_route_possible__string">By completing this action you will be directed outside of the danger zone, through the shortest and safest route possible!</string>
+    <string name="share_your_location__string">Share your location!</string>
+
+
+
+    <string name="the_fire_sign__string">The fire sign </string>
+    <string name="indicates_fires_and_their_spread_string">Indicates fires and their spread</string>
+
+    <string name="route_towards_fire_string">Route towards fire</string>
+
+    <string name="escape_from_fire_string">Escape from fire</string>
+
+    <string name="people_in_danger_string">People in danger</string>
+
+    <string name="the_green_zone_string">The green zone</string>
+
+    <string name="relatively_safe__but_should_be_evacuated_in_case_of__widely_spread_fires_string">relatively safe, but should be evacuated in case of widely-spread fires</string>
+
+    <string name="civilian_string">Civilian</string>
+
+    <string name="decision_maker_string">Decision Maker</string>
+
+
+
+    <string name="firefighter_string">Firefighter</string>
+    <string name="c_dsd_string">Select one of the following options:</string>
+
+    <!-- home_screen___1 strings -->
+
+
+    <string name="stop__that__fire_string">Stop.that.fire</string>
+
+    <!-- home_screen strings -->
+
+
+
+    <!-- home_screen strings -->
+
+
+
+    <!-- injured_people strings -->
+
+
+
+    <!-- keyboard strings -->
+
+
+
+    <!-- made_by strings -->
+
+
+    <string name="made_by_ek1_string">Made by</string>
+    <string name="penteract__string">PENTERACT </string>
+    <string name="_3_0_string">3.0</string>
+
+    <!-- menu_ strings -->
+
+
+    <string name="menu_string">Menu</string>
+    <string name="support_us__string">Support us!</string>
+    <string name="share_with_riends___family_string">Share with riends &amp; family</string>
+    <string name="report_a_bug_string">Report a bug</string>
+
+    <!-- procedures___1 strings -->
+
+
+    <string name="_1_ensure_you_plan_with_covid_19_in_mind__ask_your_relatives_or_friends_if_you_would_be_able_to_stay_with_them_in_case_of_an_emergency___string">1.Ensure you plan with COVID-19 in mind. Ask your relatives or friends if you would be able to stay with them in case of an emergency. </string>
+    <string name="_2_create_an_evacuation_plan___i_establish_a_meeting_location_outside_the_fire_or_hazard_area__ii_check_the_shortest_escape_route_form_indicated_by_the_application_map_iii_have_an_evacuation_plan_for_pets_and_large_animals_iv_create_a_family_communication_s_string">2.Create an evacuation plan:i.Establish a meeting location outside the fire or hazard area.ii.Check the shortest escape route form indicated by the application mapiii.Have an evacuation plan for pets and large animalsiv.Create a family communication system that designates an out-of-area friend or relative as a point of contact to act as a single source of communication </string>
+    <string name="_3__be_prepared_to_leave___i_have_fire_extinguishers_on_hand_and_learn_how_to_use_them_a_check_the_type_of_extinguisher___abe_powder_type_____pressurized_water__residence_halls__dry_chemical__cars__carbon_dioxide__electrical_or_mechanical_rooms_where_the_el_string">3. Be prepared to leave:i.Have fire extinguishers on hand and learn how to use thema.Check the type of extinguisher ("ABE POWDER TYPE") {Pressurized Water: residence halls; Dry Chemical: cars; Carbon Dioxide: electrical or mechanical rooms where the electricity is the hazard; Halon: computer rooms}b.Hold it upright and pull out the safety pin c.Stand back 2 meters. Aim nozzle is at the base of the fired.Squeeze the handles and sweep under the flamese.Never turn your back towards the fire, even if you think it is outii.Ensure everyone in the house knows how to safely shut-off the gas, water and electric sourcesiii.Assemble an emergency supply kitiv.Keep an extra emergency supply kit in your car in case you cannot go homev.Encourage your neighbors to create as well an emergency plan  </string>
+    <string name="_4__always_check_the_application__it_provides_live_statistics_and_weather_predictions_for_the_next_4_hours__which_will_help_you_prevent_further_complications_string">4.	Always check the application; it provides live statistics and weather predictions for the next 4 hours, which will help you prevent further complications</string>
+    <string name="in_case_you_live_in_a_geographic_zone__affected_by_wildfires_string">In case you live in a geographic zone  affected by wildfires</string>
+
+    <!-- procedures___2 strings -->
+
+
+    <string name="_1__immediately_report_it_to_the_authorities__string">1.	Immediately report it to the authorities </string>
+    <string name="_2__make_sure_your_location_is_turned_on__this_way_we_ll_be_able_to_rescue_you_in_case_of_complications__string">2.	Make sure your location is turned on, this way well be able to rescue you in case of complications </string>
+    <string name="_3__follow_the_shortest_escape_route_indicated_by_the_application_map__string">3.	Follow the shortest escape route indicated by the application map </string>
+    <string name="_4__in_case_you_are_in_a_building_affected_by_a_wildfire___a_go_to_the_closest_exit_marked_by_the_illuminated_signs_b_do_not_use_the_elevator_c_notify_others_on_your_way_out_d_if_you_have_knowledge_of_the_fire__such_as_location__size__cause__or_you_are_awar_string">4.	In case you are in a building affected by a wildfire:a.Go to the closest exit marked by the illuminated signsb.DO NOT use the elevatorc.Notify others on your way outd.If you have knowledge of the fire, such as location, size, cause, or you are aware of a person trapped, immediately notify the authorities.</string>
+    <string name="_5__in_case_you_cannot_leave_the_building__a_remain_calm_b_close_the_door_to_the_room_you_are_in_c_if_smoke_begins_to_come_in_under_the_door_use_preferably_wet_textiles_to_prevent_the_smoke_from_coming_in__d_attract_attention_on_the_window_e_do_not_break_th_string">5.	In case you cannot leave the building:a.Remain calmb.Close the door to the room you are inc.If smoke begins to come in under the door use preferably wet textiles to prevent the smoke from coming in d.Attract attention on the windowe.DO NOT break the window unless it is absolutely necessary</string>
+    <string name="in_case_you_notice_a_wildfire__string">In case you notice a wildfire:</string>
+
+
+    <!-- procedures___3 strings -->
+
+
+    <string name="_1__identify_the_burn_s_type__a__first_degree_burns__least_severe__affecting_only_the_outer_layer_of_skin__mild_pain__redness__swelling__b__second_degree_burns__affect_deeper_layers_of_the_skin__blisters_and_white__wet__and_shiny_skin___c__third_degree_burn_string">1.	Identify the burns type:a.	First degree burns: least severe, affecting only the outer layer of skin {mild pain, redness, swelling}b.	Second-degree burns: affect deeper layers of the skin {blisters and white, wet, and shiny skin} c.	Third-degree burns: affect all the layers {waxy, white-colored skin, char, dark brown color, raised and leathery texture} d.	Fourth-degree burns: may involve the joints and bones</string>
+    <string name="_2__remove_any_clothing_or_jewelry_that_s_near_the_burn_area_of_skin_string">2.	Remove any clothing or jewelry thats near the burn area of skin</string>
+    <string name="_3__make_sure_the_person_with_the_burns_is_kept_warm_string">3.	Make sure the person with the burns is kept warm</string>
+    <string name="_4__if_the_face_or_eyes_are_burnt__sit_up_as_much_as_possible__rather_than_lying_down_string">4.	If the face or eyes are burnt, sit up as much as possible, rather than lying down</string>
+    <string name="_5__third__and_fourth_degree_burns_should_only_be_treated_in_a_hospital__immediately_call_for_help_if_someone_in_your_group_is_found_in_this_situation__do_not_expose_to_smoke_or_fumes__string">5.	Third- and fourth-degree burns should ONLY be treated in a hospital. Immediately call for help if someone in your group is found in this situation. DO NOT expose to smoke or fumes.</string>
+    <string name="_6__you_can_treat_most_first_degree_burns_and_second__degree_burns_less_than_3_inches_in_diameter___a__run_cool_not_cold_water_over_the_burn_for_about_20_minutes__wash_the_burned_area_with_mild_soap_and_water_b__if_you_are_not_home__and_you_do_not_have_acce_string">6.	You can treat most first-degree burns and second- degree burns less than 3 inches in diameter:a.	Run cool NOT cold water over the burn for about 20 minutes. Wash the burned area with mild soap and waterb.	If you are not home, and you do not have access to a source of water, cool compresses or a clean wet cloth placed over the burn helps relieve the pain and swelling c.	If you have a first aid kit search for "Bacitracin" and "Neosporin." These are antibiotic ointments which prevent infections.d.	If you got a really small burn apply: honey, Aloe Vera, ginger, a tea-dote e.	DO NOT expose the burn to direct sunlightf.	DO NOT pop the blistersg.	Take a reliever such as ibuprofen (Motrin, Advil, Nurofen) or naproxen (Aleve).h.	DO NOT use: oil, butters, egg whites, toothpaste, ice</string>
+    <string name="_7__do_not_treat_burns_caused_by_an_electrical_shock_at_home__string">7.	DO NOT treat burns caused by an electrical shock at home.</string>
+    <string name="_8_______always_check_for_medical_advice_string">8.      Always check for medical advice</string>
+    <string name="in_case_you_suffer_from_skin_burns_string">In case you suffer from skin burns</string>
+
+    <!-- procedures strings -->
+
+
+    <string name="procedures_and_health_advice_string">Procedures and health advice</string>
+    <string name="__1__in_case_you_notice_a_wildfire_string">1. In case you notice a wildfire</string>
+    <string name="__2__in_case_you_live_in_a_geographical_area_frequently_affected_by_wildfires_string">2. In case you live in a geographical area frequently affected by wildfires</string>
+    <string name="__3__first_aid_instructions_if_case_of_injuries_and_burns_string">3. First aid instructions if case of injuries and burns</string>
+
+    <!-- red_zone_ strings -->
+
+
+    <string name="the_red_zone_string">The red zone</string>
+    <string name="_25_50_km_away_from_the_fire__string">0 to 5 km away from the fire </string>
+    <string name="unsafe__should_be_evacuated_in_case_of_both_widely_spread_fires_and_small_fires__danger_zone__string">Unsafe, should be evacuated in case of both widely-spread fires and small fires. Danger zone!</string>
+
+
+    <!-- route_to_safety strings -->
+
+
+
+    <!-- seek__shelter strings -->
+
+
+    <string name="saturday_string">SATURDAY</string>
+    <string name="_10_october_2020_string">10 OCTOBER 2020</string>
+    <string name="_8_string">8</string>
+    <string name="stay_calm_and_seek_shelter__get_as_far_away_from_the_fire__as_you_can__follow_our_procedure_and_health_advice___you_will_be_shortly_rescued__string">Stay calm and seek shelter,get as far away from the fire as you can, follow our procedure and health advice.You will be shortly rescued!</string>
+    <string name="call_an_ambulance__string">Call an ambulance!</string>
+    <string name="are_you_hurt__ek1_string">Are you hurt?</string>
+
+    <!-- there_is_a_fire! strings -->
+
+
+    <string name="q_string">Q</string>
+    <string name="w_string">W</string>
+    <string name="e_string">E</string>
+    <string name="r_string">R</string>
+    <string name="t_string">T</string>
+    <string name="y_string">Y</string>
+    <string name="u_string">U</string>
+    <string name="i_string">I</string>
+    <string name="o_string">O</string>
+    <string name="p_string">P</string>
+    <string name="a_string">A</string>
+    <string name="s_string">S</string>
+    <string name="d_string">D</string>
+    <string name="f_string">F</string>
+    <string name="g_string">G</string>
+    <string name="h_string">H</string>
+    <string name="j_string">J</string>
+    <string name="k_string">K</string>
+    <string name="l_string">L</string>
+    <string name="z_string">Z</string>
+    <string name="x_string">X</string>
+    <string name="c_string">C</string>
+    <string name="v_string">V</string>
+    <string name="b_string">B</string>
+    <string name="n_string">N</string>
+    <string name="m_string">M</string>
+    <string name="_123_string">123</string>
+    <string name="space_string">space</string>
+    <string name="return_string">return</string>
+    <string name="search_here_string">Search here</string>
+    <string name="where_is_the_fire___string">Where is the fire ?</string>
+    <string name="by_completing_this_action_you_are_distributing_the_location_of_the_fire_with_the_national_authorities_and_are_in_need_of_immediat_help__misinformation_will_be_punished_according_to_the_law___string">By completing this action you are distributing the location of the fire with the national authorities and are in need of immediat help. Misinformation will be punished according to the law! </string>
+
+
+    <!-- to_fire strings -->
+
+
+    <string name="search_string">Search</string>
+    <string name="_1_h_30_min_string">1 h 30 min</string>
+
+    <!-- yellow_zone_ strings -->
+
+    <string name="app_name">yellow_zone </string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="the_yellow_zone_string">The yellow zone</string>
+    <string name="_5_25_km_away_from_the_fire__string">5 to 25 km away from the fire </string>
+    <string name="safe_in_case_of_small_fires__but_must_be_evacuated_in_case_of__widely_spread_fires_string">safe in case of small fires, but must be evacuated in case of widely-spread fires</string>
+
+
+
+
+
+
+
+</resources>

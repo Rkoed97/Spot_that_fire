@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fbutton_default_color">#3eadeb</color>
+    <color name="fbutton_default_shadow_color">#ff3493c8</color>
+    //Color Swatches provided by http://designmodo.github.io/Flat-UI/
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="fbutton_color_green_sea">#16a085</color>
+    <color name="fbutton_color_emerald">#2ecc71</color>
+    <color name="fbutton_color_nephritis">#27ae60</color>
+    <color name="fbutton_color_peter_river">#3498db</color>
+    <color name="fbutton_color_belize_hole">#2980b9</color>
+    <color name="fbutton_color_amethyst">#9b59b6</color>
+    <color name="fbutton_color_wisteria">#8e44ad</color>
+    <color name="fbutton_color_wet_asphalt">#34495e</color>
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_sun_flower">#f1c40f</color>
+    <color name="fbutton_color_orange">#f39c12</color>
+    <color name="fbutton_color_carrot">#e67e22</color>
+    <color name="fbutton_color_pumpkin">#d35400</color>
+    <color name="fbutton_color_alizarin">#e74c3c</color>
+    <color name="fbutton_color_pomegranate">#c0392b</color>
+    <color name="fbutton_color_clouds">#ecf0f1</color>
+    <color name="fbutton_color_silver">#bdc3c7</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+    <color name="fbutton_color_asbestos">#7f8c8d</color>
+    <color name="fbutton_color_transparent">@android:color/transparent</color>
+
+
+    <color name="_bg__are_you_sure__color">#ffffff</color>
+    <color name="are_you_sure_you_want_to_proceed___color">#ff3636</color>
+    <color name="__yes_color">#a185ff</color>
+
+
+
+    <color name="_bg__certain_location_fire_color">#ffffff</color>
+
+    <color name="expected_to_spread_color">#7f7f7f</color>
+
+
+
+    <color name="_bg__civilian_map_view___1_color">#ffffff</color>
+
+    <color name="report_a_fire_color">#ffffff</color>
+
+
+
+    <color name="_bg__civilian_map_view___2_color">#ffffff</color>
+
+    <color name="report_an_emergency_color">#ffffff</color>
+
+
+
+
+    <color name="_bg__civilian_map_view___3_color">#ffffff</color>
+
+
+
+
+    <color name="_bg__civilian_map_view___4_color">#ffffff</color>
+
+    <color name="find_an_escape_route_color">#ffffff</color>
+
+
+
+    <color name="_bg__civilian_map_view_color">#ffffff</color>
+
+
+
+    <color name="_bg__decisionmaker_map_view___1_color">#ffffff</color>
+
+    <color name="economical_analysis_color">#ffffff</color>
+
+
+
+    <color name="_bg__decisionmaker_map_view___2_color">#ffffff</color>
+
+    <color name="recent_fires_color">#ffffff</color>
+
+
+    <color name="_bg__decisionmaker_map_view_color">#ffffff</color>
+
+
+
+
+    <color name="_bg__eascape_route___1_color">#ffffff</color>
+
+    <color name="this_sign_indicates__color">#707070</color>
+    <color name="there_are_people_waiting_to_be_rescued__color">#ff0000</color>
+    <color name="ellipse_17_color">#ff0000</color>
+
+
+
+    <color name="_bg__eascape_route_color">#ffffff</color>
+
+    <color name="where_are_you____color">#707070</color>
+    <color name="share_your_location__color">#f26511</color>
+
+
+
+
+
+    <color name="_bg__fire_tutorial_color">#ffffff</color>
+
+    <color name="the_fire_sign__color">#ff8b00</color>
+    <color name="indicates_fires_and_their_spread_color">#414141</color>
+
+
+
+    <color name="_bg__firefighter_map_view___1_color">#ffffff</color>
+
+    <color name="route_towards_fire_color">#ffffff</color>
+
+
+
+
+    <color name="_bg__firefighter_map_view___2_color">#ffffff</color>
+
+    <color name="escape_from_fire_color">#ffffff</color>
+
+
+
+
+
+    <color name="_bg__firefighter_map_view___3_color">#ffffff</color>
+
+    <color name="people_in_danger_color">#ffffff</color>
+
+
+
+
+    <color name="_bg__firefighter_map_view_color">#ffffff</color>
+
+    <color name="ellipse_16_color">#aeaeae</color>
+
+
+
+    <color name="_bg__green_zone_color">#ffffff</color>
+
+    <color name="the_green_zone_color">#32c302</color>
+
+    <color name="ellipse_24_ek2_color">#f8061e</color>
+
+
+
+    <color name="_bg__home_civilian_color">#ffffff</color>
+    <color name="rectangle_1_color">#4d4d4d</color>
+    <color name="rectangle_5_color">#5063a6</color>
+    <color name="rectangle_9_color">#333333</color>
+    <color name="ellipse_1_color">#825a46</color>
+    <color name="ellipse_5_color">#000000</color>
+
+    <color name="civilian_color">#fafafa</color>
+
+
+
+    <color name="_bg__home_decision_maker_color">#ffffff</color>
+    <color name="ellipse_8_color">#000000</color>
+
+    <color name="decision_maker_color">#fafafa</color>
+
+
+
+    <color name="_bg__home_firefighter_color">#ffffff</color>
+    <color name="ellipse_7_color">#000000</color>
+    <color name="ellipse_4_color">#9eb9e5</color>
+    <color name="ellipse_9_color">#9e9e9e</color>
+    <color name="_ellipse_10_color">#dadada</color>
+    <color name="firefighter_color">#fafafa</color>
+    <color name="c_dsd_color">#737373</color>
+
+
+    <color name="_bg__home_screen___1_color">#ffffff</color>
+    <color name="stop__that__fire_color">#ff7d00</color>
+
+
+
+
+
+
+
+    <color name="__bg__home_screen_color">#ffffff</color>
+
+
+
+    <color name="_bg__injured_people_color">#ffffff</color>
+
+
+    <!-- keyboard colors -->
+
+
+
+    <color name="_bg__keyboard_color">#ffffff</color>
+
+
+    <!-- made_by colors -->
+
+
+
+    <color name="_bg__made_by_color">#ffffff</color>
+    <color name="made_by_ek1_color">#666666</color>
+    <color name="_3_0_color">#e50019</color>
+
+    <!-- menu_ colors -->
+
+
+
+    <color name="_bg__menu__color">#ffffff</color>
+    <color name="shadow_color">#808080</color>
+    <color name="menu_color">#707070</color>
+
+    <!-- procedures___1 colors -->
+
+
+
+    <color name="_bg__procedures___1_color">#ffffff</color>
+
+    <color name="_1_ensure_you_plan_with_covid_19_in_mind__ask_your_relatives_or_friends_if_you_would_be_able_to_stay_with_them_in_case_of_an_emergency___color">#ffffff</color>
+    <color name="in_case_you_live_in_a_geographic_zone__affected_by_wildfires_color">#707070</color>
+
+    <!-- procedures___2 colors -->
+
+
+
+    <color name="_bg__procedures___2_color">#ffffff</color>
+
+    <color name="_1__immediately_report_it_to_the_authorities__color">#ffffff</color>
+    <color name="in_case_you_notice_a_wildfire__color">#707070</color>
+
+    <!-- procedures___3 colors -->
+
+
+
+    <color name="_bg__procedures___3_color">#ffffff</color>
+
+    <color name="_1__identify_the_burn_s_type__a__first_degree_burns__least_severe__affecting_only_the_outer_layer_of_skin__mild_pain__redness__swelling__b__second_degree_burns__affect_deeper_layers_of_the_skin__blisters_and_white__wet__and_shiny_skin___c__third_degree_burn_color">#ffffff</color>
+    <color name="in_case_you_suffer_from_skin_burns_color">#707070</color>
+
+    <!-- procedures colors -->
+
+
+
+    <color name="_bg__procedures_color">#ffffff</color>
+    <color name="background_color">#ececec</color>
+    <color name="rectangle_61_color">#f26511</color>
+    <color name="procedures_and_health_advice_color">#707070</color>
+    <color name="__1__in_case_you_notice_a_wildfire_color">#ffffff</color>
+
+    <!-- red_zone_ colors -->
+
+
+
+    <color name="_bg__red_zone__color">#ffffff</color>
+
+    <color name="the_red_zone_color">#f8061e</color>
+    <color name="_25_50_km_away_from_the_fire__color">#414141</color>
+
+
+    <!-- route_to_safety colors -->
+
+
+
+    <color name="_bg__route_to_safety_color">#ffffff</color>
+
+
+    <!-- seek__shelter colors -->
+
+
+
+    <color name="_bg__seek__shelter_color">#ffffff</color>
+
+    <color name="saturday_color">#ffffff</color>
+    <color name="rectangle_64_color">#fcfcfc</color>
+    <color name="stay_calm_and_seek_shelter__get_as_far_away_from_the_fire__as_you_can__follow_our_procedure_and_health_advice___you_will_be_shortly_rescued__color">#f26511</color>
+    <color name="call_an_ambulance__color">#fcfcfc</color>
+    <color name="are_you_hurt__ek1_color">#ff5050</color>
+
+    <!-- there_is_a_fire! colors -->
+
+
+
+    <color name="_bg__there_is_a_fire__color">#ffffff</color>
+    <color name="rectangle_14_color">#ececec</color>
+    <color name="rectangle_48_color">#707070</color>
+    <color name="rectangle_15_color">#919190</color>
+    <color name="q_color">#ffffff</color>
+    <color name="search_here_color">#b3b3b3</color>
+    <color name="rectangle_12_color">#f26511</color>
+    <color name="where_is_the_fire___color">#707070</color>
+
+    <!-- to_fire colors -->
+
+
+
+    <color name="_bg__to_fire_color">#ffffff</color>
+    <color name="search_color">#b3b3b3</color>
+    <color name="scroll_button_color">#f26511</color>
+    <color name="_1_h_30_min_color">#352a24</color>
+
+    <!-- yellow_zone_ colors -->
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="_bg__yellow_zone__color">#ffffff</color>
+    <color name="ellipse_22_color">#434343</color>
+    <color name="the_yellow_zone_color">#ffff00</color>
+    <color name="_5_25_km_away_from_the_fire__color">#414141</color>
+    <color name="ellipse_23_color">#f4f408</color>
+    <color name="ellipse_24_color">#ecf408</color>
+    <color name="ellipse_24_ek1_color">#f8061e</color>
+
+</resources>
